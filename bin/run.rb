@@ -1,6 +1,6 @@
-Hashie
-Sinatra
-Octokit
+#Hashie
+#Sinatra
+#Octokit
 Pry
 AwesomePrint
 
